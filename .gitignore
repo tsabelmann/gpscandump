@@ -1,2 +1,6 @@
 # CMake
 build
+
+# Eclipse
+.cproject
+.project
